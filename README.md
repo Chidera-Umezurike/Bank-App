@@ -23,5 +23,5 @@ A secure mobile banking application developed as a final year project using **Ko
 - Plaid API
 - Stripe ApI
 - FireStore (Firebase) 
-- Machine Learning (TensorFlow Lite / custom models)
+- Machine Learning 
 - Material Design UI Components
